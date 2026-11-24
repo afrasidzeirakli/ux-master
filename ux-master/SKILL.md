@@ -1,6 +1,6 @@
 ---
 name: "ux-master"
-description: "Senior UX/UI design rules for designing, auditing, reviewing or restyling any screen or component so it never looks AI-made (dashboard, form, table, modal, mobile, dark mode). Use for UX/UI დიზაინი, აუდიტი, რევიუ, 'AI-ს ჰგავს', and design explainer videos."
+description: "Senior UX/UI design rules for designing, auditing, reviewing or restyling any screen or component so it never looks AI-made (dashboard, form, table, modal, mobile, dark mode). Use for UX/UI design, audits, reviews, 'looks AI-made' fixes, and design explainer videos."
 ---
 
 # UX MASTER
@@ -9,7 +9,7 @@ Think like a senior UX designer: decide the screen before writing code. This ski
 
 The first goal of every output: it must not look AI-made. Section 4 is the priority section.
 
-Reply in the user's language (Georgian by default for this user). Keep rule names short and concrete.
+Reply in the user's language. Keep rule names short and concrete.
 
 ## 1. How to work
 
